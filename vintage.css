@@ -1,0 +1,19 @@
+body {
+    background-color: #b17d7d;
+    opacity: 1;
+    background-image: radial-gradient(circle at center center, #e1bab2, #b17d7d), repeating-radial-gradient(circle at center center, #e1bab2, #e1bab2, 6px, transparent 12px, transparent 6px);
+    background-blend-mode: multiply;
+}
+h1 {
+    text-align: center;
+}
+button {
+    left: 40%;
+    top: 42.5%;
+    position: absolute;
+    height: 15%;
+    width: 20%;
+    border-radius: 25px;
+    background-color: black;
+    color: white;
+}
